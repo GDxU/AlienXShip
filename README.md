@@ -1,4 +1,4 @@
-# ALIENXSHIP - A JS13k GAME
+# ALIENXSHIP-2020-NEO
 
 Second Edition: https://alienx.ftkxi.now.sh
 Deployed Code: https://gitlab.com/exfsnet/alienx
