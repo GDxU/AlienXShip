@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/js/*.js",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/js/colorpicker/*",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/js/colorpicker/i18n/*.js",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/js/colorpicker/images/128/*.png",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/js/colorpicker/images/*.png",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/js/colorpicker/parsers/*.js",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/js/colorpicker/parts/*.js",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/js/colorpicker/swatches/*.js",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/js/colorpicker/test/*",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/js/jquery-ui-smoothness/*",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/js/jquery-ui-smoothness/external/*",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/js/jquery-ui-smoothness/external/jquery/*",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/js/jquery-ui-smoothness/images/*",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/config/*.json",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/css/*.css",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/fonts/*",
+      "use": "@now/static"
+    },
+    {
+      "src": "assets/images/*",
+      "use": "@now/static"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+node_modules
+.nuxt
+dist
+/conf/main.json
+\.idea/
+
+\.DS_Store
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.idea
+*.ini
+.DS_Store
+.idea/
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+# OSX
+#
+.DS_Store
+
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+project.xcworkspace
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# BUCK
+buck-out/
+\.buckd/
+*.keystore
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+*/fastlane/report.xml
+*/fastlane/Preview.html
+*/fastlane/screenshots
+
+# Figwheel
+figwheel_server.log
+
+.cpcache/
+.lein-repl-history
+.nrepl-port
+.lan-ip
+
+# Generated
+index.ios.js
+index.android.js
+target/
+env/dev/env/dev.cljs
+
+node_modules
+.nuxt
+dist
+src/github\.com/gpmgo/
+
+ccsusers/
+.goxc.local.json
+build-cgo
+testing_darwin
+
+testing_algo_ts
+
+*.zip
+
+admin_backend_php/Public/Uploads/
+
+frontend_testing/src/static/
+
+ws_sample/
+
+linux_build_v29
+
+sscminer_260
+
+*.log
+
+sccminer_260
+
+horser_41
+
+static2/package-lock\.json
+
+linux_blueocean
